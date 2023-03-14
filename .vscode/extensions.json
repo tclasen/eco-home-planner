@@ -1,0 +1,15 @@
+{
+    "recommendations": [
+        "dbaeumer.vscode-eslint",
+        "ms-vscode.vscode-typescript-next",
+        "dsznajder.es7-react-js-snippets",
+        "planbcoding.vscode-react-refactor",
+        "esbenp.prettier-vscode",
+        "wix.vscode-import-cost",
+        "burkeholland.simple-react-snippets",
+        "stylelint.vscode-stylelint",
+        "eamodio.gitlens",
+        "formulahendry.auto-rename-tag",
+        "christian-kohler.npm-intellisense"
+    ]
+}
